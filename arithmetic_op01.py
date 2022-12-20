@@ -7,4 +7,3 @@ num_two =5
 num_one =4
 variable_total=num_two+num_one
 print(variable_total)
-
